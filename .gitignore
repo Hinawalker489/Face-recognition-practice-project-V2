@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+.env
+*.pt
+faces/
+faces_data.json
+faces/
+faces_data.json
+faces/
+faces_data.jpg
+faces/
+faces_data.json
